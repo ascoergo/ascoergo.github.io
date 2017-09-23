@@ -16,7 +16,6 @@ description              : "Site web de l'association ascoergo."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-image                    : "/assets/images/bann.png"
 teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -87,7 +86,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Basile"
+  name             : "Ascoergo"
   avatar           : "/assets/images/getz.jpg" 
   bio              : ""
   location         : "Somewhere"
@@ -97,7 +96,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : ascoergo
   foursquare       :
   github           :
   gitlab           :
@@ -111,7 +110,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : ascoergo
   vine             :
   weibo            :
   xing             :
@@ -242,7 +241,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -262,4 +260,3 @@ defaults:
       type: pages
     values:
         layout: single
-        image: '/assets/images/bann.png'
