@@ -255,3 +255,10 @@ defaults:
       comments: # true
       share: true
       related: tru splash
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+        layout: single
+        image: '/assets/images/bann.png'
