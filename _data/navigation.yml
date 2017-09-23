@@ -1,12 +1,13 @@
 # main links
 main:
 
+    - title: "Évènements"
+     url: /events/
+
    - title: "À propos"
      url: /about/
 
-   - title: "Évènements"
-     url: /events/
-  # - title: "Sample Posts"
+     # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
