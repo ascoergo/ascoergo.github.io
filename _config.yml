@@ -16,6 +16,7 @@ description              : "Site web de l'association ascoergo."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+image                    : "/assets/images/bann.jpg"
 teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -53,11 +54,13 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # HEADER IMAGE
-  page:
-    header:
-        image: "/assets/images/bann.jpg"
-        overlay_image: "/assets/images/bann.jpg"
+header:
+    image: "/assets/images/bann.jpg"
+    overlay_image: "/assets/images/bann.jpg"
 
+head:
+    image: "/assets/images/bann.jpg"
+    overlay_image: "/assets/images/bann.jpg"
 # SEO Related
 google_site_verification :
 bing_site_verification   :
