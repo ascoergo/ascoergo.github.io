@@ -79,8 +79,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "random author"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Basile"
+  avatar           : "/assets/images/getz.jpg" 
   bio              : ""
   location         : "Somewhere"
   email            :
