@@ -1,7 +1,11 @@
 # main links
 main:
-   - title: "À propos de nous"
+
+   - title: "À propos"
      url: /about/
+
+   - title: "Évènements"
+     url: /events/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
