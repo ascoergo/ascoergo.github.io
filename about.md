@@ -1,6 +1,6 @@
 ---
-image:
-    feature: bann.png
+header:
+    image: bann.png
 ---
 
 # À propos d'Ascoergo
