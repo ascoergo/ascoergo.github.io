@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 header:
   image: bann.png
 ---
