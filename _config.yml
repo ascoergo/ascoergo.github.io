@@ -257,3 +257,4 @@ defaults:
       related: tru splash
     header:
         image: "/assets/images/bann.jpg" 
+        overlay_image: "/assets/images/bann.jpg" 
