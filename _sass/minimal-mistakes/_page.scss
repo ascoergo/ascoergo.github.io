@@ -163,11 +163,11 @@
     .page__title,
     .page__meta,
     .page__lead,
-    .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    /*.btn {*/
+      //color: #fff;
+      //text-shadow: 1px 1px 4px rgba(#000, 0.5);
       
-      }
+      //}
 
     .page__lead {
       max-width: $medium;
@@ -182,6 +182,14 @@
     }
   }
 }
+
+.btn {
+      color: #fff;
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      margin-left: 40px;
+      margin-top: 40px;
+      
+      }
 
 .page__hero-image {
   width: 100%;
