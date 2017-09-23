@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" # "air", "contrast", "dark", "dirt", "mint", "s
 
 # Site Settings
 locale                   : "fr"
-title                    : "Ascoergo"
+title                    : ""
 title_separator          : "-"
 name                     : "Ascoergo"
 description              : "Site web de l'association ascoergo."
