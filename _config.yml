@@ -56,11 +56,7 @@ atom_feed:
 # HEADER IMAGE
 header:
     image: "/assets/images/bann.jpg"
-    overlay_image: "/assets/images/bann.jpg"
 
-head:
-    image: "/assets/images/bann.jpg"
-    overlay_image: "/assets/images/bann.jpg"
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -253,11 +249,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: tru splash
-      image: "/assets/images/bann.jpg" 
-      overlay_image: "/assets/images/bann.jpg" 
