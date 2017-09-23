@@ -1,6 +1,7 @@
 ---
+layout: single
 image:
-    feature: /assets/images/bann.png
+    feature: bann.png
 ---
 
 # Bienvenue
