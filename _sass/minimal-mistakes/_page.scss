@@ -136,8 +136,7 @@
 
   &--overlay {
     position: absolute;
-    bottom: 50%;
-    right: 10;
+    margin-left: 50%; 
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
