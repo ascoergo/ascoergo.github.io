@@ -53,9 +53,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # HEADER IMAGE
-header:
-  image: "/assets/images/bann.jpg"
-  overlay_image: "/assets/images/bann.jpg"
+  page:
+    header:
+        image: "/assets/images/bann.jpg"
+        overlay_image: "/assets/images/bann.jpg"
 
 # SEO Related
 google_site_verification :
