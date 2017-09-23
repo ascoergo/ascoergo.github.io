@@ -135,7 +135,9 @@
           animation-delay: 0.25s;
 
   &--overlay {
-    position: relative;
+    position: absolute;
+    bottom: 50%;
+    right: 10;
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
@@ -184,7 +186,7 @@
 
 .page__hero-image {
   width: 100%;
-  height: 60%;
+  height: 75%;
   -ms-interpolation-mode: bicubic;
 }
 
