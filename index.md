@@ -1,7 +1,7 @@
 ---
 layout: single
-image:
-    feature: bann.png
+header:
+    image: bann.png
 ---
 
 # Bienvenue
