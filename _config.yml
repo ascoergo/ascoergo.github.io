@@ -51,7 +51,7 @@ atom_feed:
 
 # HEADER IMAGE
 header:
-  image: "/assets/images/banniere.png"
+  image: "/assets/images/bann.jpg"
 
 # SEO Related
 google_site_verification :
